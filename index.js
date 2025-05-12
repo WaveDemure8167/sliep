@@ -6,7 +6,8 @@ const seven = [
     "thebadgay.webp",
     "ilikeboys.png",
     "sliplovesboys.png",
-    "imslipping.png"
+    "imslipping.png",
+    "imgonnabusttt.png"
 ];
 
 const randomMessage = [
